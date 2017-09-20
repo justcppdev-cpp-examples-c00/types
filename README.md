@@ -1,3 +1,4 @@
+```
 - integral_type [](std::is_integral, порядковой тип)
 	- bool
 	- char
@@ -94,3 +95,4 @@
 	- return_type(param_type)
 
 1 == sizeof(char) <= sizeof(short) <= sizeof(int) <= sizeof(long) <= sizeof(long long)
+```
