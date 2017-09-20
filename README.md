@@ -1,3 +1,4 @@
+# Типы в С++
 ```
 - integral_type [](std::is_integral, порядковой тип)
 	- bool
